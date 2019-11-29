@@ -1,4 +1,4 @@
 # Schedule
-common schedule platform for crontab and task
+Common schedule platform for Crontab and Task
 
 Coming soon...
